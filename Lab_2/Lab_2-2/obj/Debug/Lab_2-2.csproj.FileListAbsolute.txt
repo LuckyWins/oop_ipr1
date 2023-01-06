@@ -1,0 +1,15 @@
+C:\Univer\Any\Андрей\ООП\ИРП1\Lab_2\Lab_2-2\bin\Debug\Lab_2-2.exe.config
+C:\Univer\Any\Андрей\ООП\ИРП1\Lab_2\Lab_2-2\bin\Debug\Lab_2-2.exe
+C:\Univer\Any\Андрей\ООП\ИРП1\Lab_2\Lab_2-2\bin\Debug\Lab_2-2.pdb
+C:\Univer\Any\Андрей\ООП\ИРП1\Lab_2\Lab_2-2\obj\Debug\Lab_2-2.csproj.AssemblyReference.cache
+C:\Univer\Any\Андрей\ООП\ИРП1\Lab_2\Lab_2-2\obj\Debug\MainWindow.g.cs
+C:\Univer\Any\Андрей\ООП\ИРП1\Lab_2\Lab_2-2\obj\Debug\App.g.cs
+C:\Univer\Any\Андрей\ООП\ИРП1\Lab_2\Lab_2-2\obj\Debug\Lab_2-2_MarkupCompile.cache
+C:\Univer\Any\Андрей\ООП\ИРП1\Lab_2\Lab_2-2\obj\Debug\Lab_2-2_MarkupCompile.lref
+C:\Univer\Any\Андрей\ООП\ИРП1\Lab_2\Lab_2-2\obj\Debug\MainWindow.baml
+C:\Univer\Any\Андрей\ООП\ИРП1\Lab_2\Lab_2-2\obj\Debug\Lab_2-2.g.resources
+C:\Univer\Any\Андрей\ООП\ИРП1\Lab_2\Lab_2-2\obj\Debug\Lab_2_2.Properties.Resources.resources
+C:\Univer\Any\Андрей\ООП\ИРП1\Lab_2\Lab_2-2\obj\Debug\Lab_2-2.csproj.GenerateResource.cache
+C:\Univer\Any\Андрей\ООП\ИРП1\Lab_2\Lab_2-2\obj\Debug\Lab_2-2.csproj.CoreCompileInputs.cache
+C:\Univer\Any\Андрей\ООП\ИРП1\Lab_2\Lab_2-2\obj\Debug\Lab_2-2.exe
+C:\Univer\Any\Андрей\ООП\ИРП1\Lab_2\Lab_2-2\obj\Debug\Lab_2-2.pdb
